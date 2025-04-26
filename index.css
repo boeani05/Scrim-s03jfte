@@ -13,14 +13,29 @@ header {
     padding: 45px 0;
 }
 
-#header-heading {
+h1 {
     color: whitesmoke;
     font-size: 36px;
     margin-bottom: 0;
 }
 
-#header-description {
+h2 {
+    margin-top: 0;
+}
+
+h3 {
     color: #d0aaff;
     font-size: 20px;
     margin-top: 0;
+}
+
+p {
+}
+
+section {
+    padding: 45px 0;
+}
+
+.purple-sneakers {
+    width: 100%;
 }
