@@ -29,7 +29,13 @@ h3 {
     margin-top: 0;
 }
 
-p {
+#a-craftNFT {
+    color: #ef5839;
+    text-decoration-style: dotted;
+}
+
+#a-craftNFT:hover, #a-craftNFT:active {
+    color: #d4b44c;
 }
 
 section {
