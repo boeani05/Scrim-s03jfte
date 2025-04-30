@@ -10,17 +10,11 @@ body {
     margin: 0;
 }
 
-header {
+header, .section-two {
     background-color: #5f29a3;
-    padding: 45px 0;
-}
-
-section {
-    padding: 45px 0;
 }
 
 .section-two {
-    background-color: #5f29a3;
     color: whitesmoke;
 }
 
@@ -32,16 +26,24 @@ section {
 
 footer {
     text-align: center;
-    padding: 45px 0;
     color: #5f29a3;
+}
+
+header, 
+section,
+footer {
+    padding: 45px 0;
 }
 
 /*headings*/
 
+h1, h3 {
+    margin: 0;
+}
+
 h1 {
     color: whitesmoke;
     font-size: 36px;
-    margin-bottom: 0;
 }
 
 h2 {
@@ -51,17 +53,16 @@ h2 {
 h3 {
     color: #d0aaff;
     font-size: 20px;
-    margin-top: 0;
 }
 
 /* links */
 
-#a-craftNFT {
+a {
     color: #ef5839;
     text-decoration-style: dotted;
 }
 
-#a-craftNFT:hover, #a-craftNFT:active {
+a:hover, a:active {
     color: #d4b44c;
 }
 
