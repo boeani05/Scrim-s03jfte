@@ -45,3 +45,8 @@ section {
 .purple-sneakers {
     width: 100%;
 }
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
