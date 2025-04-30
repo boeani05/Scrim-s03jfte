@@ -30,6 +30,12 @@ section {
     margin: 0 auto;
 }
 
+footer {
+    text-align: center;
+    padding: 45px 0;
+    color: #5f29a3;
+}
+
 /*headings*/
 
 h1 {
