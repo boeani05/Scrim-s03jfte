@@ -65,3 +65,13 @@ h3 {
     width: 100%;
 }
 
+.section-two-img {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: space-between;
+}
+
