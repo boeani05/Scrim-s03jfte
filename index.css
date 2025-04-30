@@ -35,6 +35,10 @@ footer {
     padding: 45px 0;
 }
 
+p {
+    line-height: 23px;
+}
+
 /*headings*/
 
 h1, h3 {
